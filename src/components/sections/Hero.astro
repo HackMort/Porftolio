@@ -8,6 +8,7 @@ import LinkedIn from "@/icons/LinkedIn.astro"
 import GitHub from "@/icons/GitHub.astro"
 import WorldMap from "@/icons/WorldMap.astro"
 import type { SocialIcon } from "@/types"
+import DarkMode from "@/components/DarkMode.astro"
 
 const { name, label, image, location, profiles,  email } = basics
 const { city, region } = location
@@ -25,6 +26,7 @@ const printInfo = [email, linkedUrl].filter(Boolean).join(" • ")
 ---
 
 <Section>
+  <DarkMode />
   <div class="container">
     <div class="info">
       <h1 set:html={name} />
