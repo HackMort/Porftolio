@@ -7,7 +7,6 @@ import { certificates } from "@cv"
   <ul>
     {
       certificates.map(({ name, url, issuer }) => {
-        const iconName = name;
         return (
           <li>
             <a href={url} target="_blank" rel="noopener noreferrer">
