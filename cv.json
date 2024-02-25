@@ -49,7 +49,7 @@
       "position": "Frontend Development Educator",
       "startDate": "2011-03-01",
       "endDate": "2014-01-31",
-      "summary": "Teaching the latest web technologies to students. From HTML, CSS, and JavaScript to advanced topics. Also a little bit of backend development with PHP & MySQL.",
+      "summary": "Teaching the latest web technologies to students. From HTML, CSS, and JavaScript. Also a little bit of backend development with PHP & MySQL.",
       "highlights": ["Started the company"]
     }
   ],
@@ -86,10 +86,28 @@
   ],
   "certificates": [
     {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
+      "name": "EF SET Certificate - C2 Proficient",
+      "date": "2022-04-01",
+      "issuer": "EF SET",
+      "url": "https://cert.efset.org/ZAQ1qp"
+    },
+    {
+      "name": "Trained in SCRUM Essentials",
+      "date": "2022-05-01",
+      "issuer": "SCRUM Network",
+      "url": "https://www.credential.net/ffe188fc-cea1-47ad-baaf-3eb997177d70"
+    },
+    {
+      "name": "E-Lancers Certificate",
+      "date": "2022-07-01",
+      "issuer": "Wisar",
+      "url": "https://wisar.pro/wp-content/certificates/elancers22/certificado-e-lancers-2022-jonathan-rodrigo-juarez-arevalo-pgsdnsuo.pdf"
+    },
+    {
+      "name": "Web Development",
+      "date": "2011-05-01",
+      "issuer": "Platzi",
+      "url": "https://platzi.com/"
     }
   ],
   "publications": [
