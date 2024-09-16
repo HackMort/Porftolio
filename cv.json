@@ -17,7 +17,7 @@
       {
         "network": "LinkedIn",
         "username": "jonathan-juarez-fe",
-        "url": "https://www.linkedin.com/in/jonathan-juarez-fe/"
+        "url": "www.linkedin.com/in/jonathan-juarez-dev"
       },
       {
         "network": "GitHub",
@@ -85,6 +85,12 @@
     }
   ],
   "certificates": [
+    {
+      "name": "Registered SCRUM Master",
+      "date": "2024-09-15",
+      "issuer": "Agile Education by scruminc.",
+      "url": "https://s3.amazonaws.com/scruminc-certs/RSM-7518799"
+    },
     {
       "name": "EF SET Certificate - C2 Proficient",
       "date": "2022-04-01",
